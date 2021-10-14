@@ -1,0 +1,38 @@
+body {
+    background-image: url("sambora.jpg");
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+h1{
+    
+    color: rgb(255, 183, 50);
+    font: italic bold 3em Times, Arial, sans-serif;
+}
+p{
+    color: rgb(255, 183, 50);
+}
+a{
+    color: rgb(255, 183, 50);
+}
+a.hrefs{
+    color: lightskyblue;
+}
+a.gitarki{
+    color: white;
+}
+a.top{
+    color: lightskyblue;
+}
+a:hover{
+    color: red;
+}
+a:link, a:visited{
+    text-decoration: none;
+}
+div{
+    color: rgb(255, 183, 50);
+}
+p.intro{
+    text-decoration: underline overline;
+    font-size: 25px;
+}
